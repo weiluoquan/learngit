@@ -1011,7 +1011,7 @@ vector<VisionNode::DetectionResult> VisionNode::detectRectangles(Mat& image) {
 
             // 检测矩形是否移动
             bool is_moving = isRectangleMoving(sorted_points, valid_rectangles);
-            string rect_type = is_moving ? "move_rect" : "rect";
+            string rect_type = is_moving ? "rect_move" : "rect";
             
             // 根据移动状态选择颜色
             cv::Scalar rect_color = is_moving ? cv::Scalar(0, 0, 255) : cv::Scalar(0, 255, 0); // 移动为红色，静止为绿色
