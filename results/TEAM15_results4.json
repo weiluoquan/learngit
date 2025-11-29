@@ -1,0 +1,73 @@
+{
+    "RaceStage3": [
+        {
+            "average_numdetecterror": 5.473,
+            "average_orientationerror": 3.14,
+            "fps": 2,
+            "max_numdetecterror": 999.0,
+            "max_orientationerror": 3.14,
+            "run_id": "3b1b5d83-e981-463a-930f-ab1faad1d84e",
+            "score": 0.0,
+            "target_type": "armor_red_2",
+            "timestamp": "2025-11-29T17:41:30Z"
+        },
+        {
+            "average_numdetecterror": 4.752,
+            "average_orientationerror": 1.61,
+            "fps": 2,
+            "max_numdetecterror": 5.252,
+            "max_orientationerror": 1.674,
+            "run_id": "6eaf93f7-66eb-4909-a62f-def5b9415a63",
+            "score": 0.0,
+            "target_type": "armor_red_1",
+            "timestamp": "2025-11-29T17:41:30Z"
+        },
+        {
+            "average_numdetecterror": 4.752,
+            "average_orientationerror": 3.14,
+            "fps": 2,
+            "max_numdetecterror": 999.0,
+            "max_orientationerror": 3.14,
+            "run_id": "936deaa0-1482-4572-bfd3-6411e30926b4",
+            "score": 0.0,
+            "target_type": "armor_red_3",
+            "timestamp": "2025-11-29T17:41:30Z"
+        },
+        {
+            "average_numdetecterror": 5.473,
+            "average_orientationerror": 1.527,
+            "fps": 2,
+            "max_numdetecterror": 5.473,
+            "max_orientationerror": 1.527,
+            "run_id": "aad3f0f6-6f51-4695-9231-eb4f28e622df",
+            "score": 0.0,
+            "target_type": "armor_red_4",
+            "timestamp": "2025-11-29T17:41:30Z"
+        }
+    ],
+    "RaceStage4": [
+        {
+            "average_numdetecterror": 4.251,
+            "average_orientationerror": 1.547,
+            "fps": 3,
+            "max_numdetecterror": 5.252,
+            "max_orientationerror": 1.674,
+            "run_id": "cd02892e-315f-4583-806f-f4e9b0839770",
+            "score": 0.5,
+            "target_type": "armor_red_1",
+            "timestamp": "2025-11-29T17:41:40Z"
+        },
+        {
+            "average_numdetecterror": 5.473,
+            "average_orientationerror": 1.527,
+            "fps": 3,
+            "max_numdetecterror": 5.473,
+            "max_orientationerror": 1.527,
+            "run_id": "f81e9a8b-ef91-4f26-a93a-7b0b5df35c03",
+            "score": 0.5,
+            "target_type": "armor_red_4",
+            "timestamp": "2025-11-29T17:41:40Z"
+        }
+    ],
+    "team_name": "TEAM15"
+}
